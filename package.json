@@ -1,0 +1,24 @@
+{
+  "name": "indexnow",
+  "description": "Neo's World IndexNow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start"    : "node ./index.js",
+    "duplicate": "node ./find-duplicate-urls.js"
+  },
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/indexnow#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21/indexnow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neos21/indexnow/issues"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  }
+}
